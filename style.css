@@ -1,0 +1,96 @@
+Body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+img {
+  height: 400px;
+}
+.heading {
+  display: flex;
+  flex-direction: row;
+padding-left: 40px;
+background: url(./Waheed.JPG);
+}
+.heading h2{
+    margin-right: 950px;
+}
+a{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.head{
+    margin-top: 30px;
+    
+    
+}
+a{
+    padding-right: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.topcontainer {
+  text-align: end;
+  background: url(./Waheed.JPG) no-repeat;
+  background-size: 800px;
+  height: 600px;
+border-bottom: solid black;
+border-radius: 20px;
+
+ }
+ .container{
+     position: relative;
+     right: 50px;
+ }
+ .second-container{
+     display: flex;
+     color: rgb(0, 0, 0);
+     padding: 0px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+
+     border-radius: 10px;
+     border-top: white;
+     
+ }
+ .about{
+     border: 5px solid rgb(0, 217, 255);
+     border-radius: 20px;
+     width: 700px;
+     text-align: center;
+ }
+ .skill-container{
+    border: 5px solid rgb(0, 217, 255);
+    border-radius: 20px;
+    width: 700px;
+    text-align: center;
+ }
+ .hobby-container{
+    border: 5px solid rgb(0, 217, 255);
+    border-radius: 20px;
+    width: 700px;
+    text-align: center;
+ }
+ .proprity-container{
+    border: 5px solid rgb(0, 217, 255);
+    border-radius: 20px;
+    width: 700px;
+    text-align: center;
+
+ }
+ .footer {
+    display: flex;
+    flex-direction: row;
+  background-color: rgb(0, 255, 221);
+  
+  }
+ .foot{
+    padding-top: 25px;
+margin-left: 50px;
+}
+h4{
+    margin-right: 800px;
+}
